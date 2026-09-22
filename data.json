@@ -1,0 +1,43 @@
+{
+  "users": [],
+  "sessions": [],
+  "bids": [],
+  "lots": [
+    {
+      "id": "L001",
+      "title": "Volkswagen Polo 1.0 TSI 2022",
+      "category": "Veículos",
+      "price": 32500,
+      "bids": 12,
+      "end": "2026-10-15T20:00:00-03:00",
+      "location": "São Paulo/SP",
+      "status": "aberto",
+      "emoji": "🚗",
+      "description": "Lote demonstrativo."
+    },
+    {
+      "id": "L002",
+      "title": "Casa no Condomínio Veredas",
+      "category": "Imóveis",
+      "price": 450000,
+      "bids": 8,
+      "end": "2026-10-20T20:00:00-03:00",
+      "location": "São Paulo/SP",
+      "status": "aberto",
+      "emoji": "🏠",
+      "description": "Lote demonstrativo."
+    },
+    {
+      "id": "L003",
+      "title": "iPhone 14 128GB",
+      "category": "Eletrônicos",
+      "price": 2850,
+      "bids": 21,
+      "end": "2026-10-10T20:00:00-03:00",
+      "location": "São Paulo/SP",
+      "status": "aberto",
+      "emoji": "📱",
+      "description": "Lote demonstrativo."
+    }
+  ]
+}
